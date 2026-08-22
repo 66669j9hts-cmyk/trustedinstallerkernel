@@ -1,0 +1,2 @@
+# trustedinstallerkernel
+一个可以调用trustedinstaller权限的小东西
